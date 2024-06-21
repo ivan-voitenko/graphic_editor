@@ -1,0 +1,7 @@
+Rectangle (w: 50, h: 84)
+Circle (x: 169, y: 102) R = 75
+Rectangle (w: 36, h: 49)
+
+Group #1
+  +Circle (x: 468, y: 150) R = 119
+

@@ -1,7 +1,21 @@
-Rectangle (w: 50, h: 84)
-Circle (x: 169, y: 102) R = 75
-Rectangle (w: 36, h: 49)
+Circle (x: 414, y: 137) R = 141
+Circle (x: 270, y: 652) R = 120
+Rectangle (w: 214, h: 195)
+Rectangle (w: 248, h: 82)
+Rectangle (w: 166, h: 206)
+Circle (x: 645, y: 680) R = 141
+Circle (x: 1011, y: 708) R = 136
+Rectangle (w: 14, h: 205)
+Rectangle (w: 0, h: 0)
+Rectangle (w: 91, h: 58)
+Rectangle (w: 166, h: 206)
+Circle (x: 300, y: 682) R = 120
+Rectangle (w: 214, h: 195)
 
 Group #1
-  +Circle (x: 468, y: 150) R = 119
+  +Circle (x: 748, y: 885) R = 136
+
+Group #2
+  +Circle (x: 674, y: 317) R = 141
+  +Circle (x: 1040, y: 345) R = 136
 

@@ -9,7 +9,7 @@
 ShapeEditor se;
 
 int temp = 0;
-std::string fileName = "ShapesGroupsInfo.txt";
+const std::string fileName = "ShapesGroupsInfo.txt";
 
 // Global Variables:
 HINSTANCE hInst;                                // ,current instance

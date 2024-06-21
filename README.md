@@ -1,18 +1,18 @@
 # graphic_editor
 
-This desktop application is graphic editor, where you can draw some shapes, like circle and rectangle. 
+This desktop application is a graphic editor where you can draw shapes like circles and rectangles.
 
-After starting this app, you can see an empty canvas and at the top left you can see some tool buttons. 
+After starting this app, you can see an empty canvas, and at the top left, you can see some tool buttons.
 
-"File" tool button - user can export parameters of all shapes, that exist in his canvas.
+"File" tool button - allows the user to export the parameters of all shapes that exist on their canvas.
 
-"Help" tool button can open information of what you can do in this program.
+"Help" tool button - provides information on what you can do in this program.
 
-"Objects" tool button - user can choose shape that he want to draw, "group" tool that can be use for group some objects, "move", "copy", "delete" tools for move, copy or delete some objects. 
+"Objects" tool button - allows the user to choose the shape they want to draw, as well as access the "group" tool to group some objects, and "move," "copy," and "delete" tools to move, copy, or delete objects.
 
 ![image](https://github.com/ivan-voitenko/graphic_editor/assets/173069138/318ba089-2c60-4ae6-900d-c50e868ead01)
 
-After creating group, user can see at the top a list of the created groups, that he can copy, delete or delete shape from group.
+After creating a group, the user can see a list of the created groups at the top, and can copy, delete, or remove shapes from the group.
 
 ![image](https://github.com/ivan-voitenko/graphic_editor/assets/173069138/de8e4507-a7f1-4e17-af15-03af85c6d9e1)
 

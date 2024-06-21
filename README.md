@@ -8,7 +8,7 @@ After starting this app, you can see an empty canvas, and at the top left, you c
 
 "Help" tool button - provides information on what you can do in this program.
 
-"Objects" tool button - allows the user to choose the shape they want to draw, as well as access the "group" tool to group some objects, and "move," "copy," and "delete" tools to move, copy, or delete objects.
+"Objects" tool button - allows the user to choose the shape they want to draw, as well as access the "group" tool to group some objects, and "move", "copy", and "delete" tools to move, copy, or delete objects.
 
 ![image](https://github.com/ivan-voitenko/graphic_editor/assets/173069138/318ba089-2c60-4ae6-900d-c50e868ead01)
 
